@@ -1,2 +1,2 @@
 # EDL
-Tarefas de da disciplina Estrutura de Linguagens
+Tarefas da disciplina Estrutura de Linguagens
